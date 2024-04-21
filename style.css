@@ -218,6 +218,7 @@ body {
   .livros{
     display: grid;
     margin-bottom: 10%;
+    margin-top: 30%;
   }
 
   .livros__disponiveis{
