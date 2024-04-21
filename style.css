@@ -38,7 +38,7 @@ body {
 }
 
 .pesquisar__input {
-  padding: 8px;
+  padding: .5rem;
   border: 2px solid var(--cinza-claro);
   border-radius: 2rem 0rem 0rem 2rem;
   font-size: 1rem;
@@ -208,5 +208,9 @@ body {
   .btn{
     display: grid;
   }
-  
+
+  .nav{
+    display: grid;
+  }
+
 }
