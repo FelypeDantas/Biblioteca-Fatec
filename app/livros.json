@@ -1,0 +1,130 @@
+[
+    {
+        "titulo": "UML2: Uma abordagem prática",
+        "autor": "Gilleanes T. A. Guedes",
+        "url": "./livros/uml-2-uma-abordagem-pratica-gilleanes-guedes.pdf",
+        "imagem": "./imagens/UML2.jpeg",
+        "alt": "Capa do livro UML2",
+        "categoria": "Engenharia"
+    },
+    {
+        "titulo": "Código Limpo - Completo",
+        "autor": "Robert C. Martin",
+        "url": "./livros/Codigo Limpo - Completo PT.pdf",
+        "imagem": "./imagens/clean-code.png",
+        "alt": "Capa do livro Código limpo",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Sistemas Operacionais Modernos",
+        "autor": "Andrew S. Tanenbaum",
+        "url": "./livros/Sistemas-Operacionais-Moder.pdf",
+        "imagem": "./imagens/SOM.jpg",
+        "alt": "Capa do livro Sistemas Operacionais Modernos",
+        "categoria": "DevOps"
+    },
+    {
+        "titulo": "ASP. NET Core MVC : Aplicações Modernas em conjunto com o Entify Framework",
+        "autor": "Everton Coimbra De Araujo",
+        "url": "./livros/Everton Coimbra de Araújo - Asp.Net-Core-MVC-Aplicações.pdf",
+        "imagem": "./imagens/AspNet.jpg",
+        "alt": "Capa do livro ASP .NET Core",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Web Services REST com ASP.NET Web API e Windows Azure",
+        "autor": "Paulo Siécola",
+        "url": "./livros/Web-Services.pdf",
+        "imagem": "./imagens/Azure.jpeg",
+        "alt": "Capa do livro Web Services",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Treinamento em lógica de Programação",
+        "autor": "Sandra Rita",
+        "url": "./livros/TREINAMENTO_EM_LOGICA_DE_PROGRAMACAO_Sandra_Rita_Z-Library.pdf",
+        "imagem": "./imagens/Sandra_Rita.jpg",
+        "alt": "Capa do livro Treinamento em lógica de programação",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Introdução a Prograamação com 500 algoritmos resolvidos",
+        "autor": "Guto Garcia",
+        "url": "./livros/Introducao_a_Programacao.pdf",
+        "imagem": "./imagens/introducao_programar.jpeg",
+        "alt": "Capa do livro Introdução a programação",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "lógica de programação : Crie os seus primeiros programas com JavaScript",
+        "autor": "Paulo Silveira",
+        "url": "./livros/Logica_de_Programacao.pdf",
+        "imagem": "./imagens/Paulo_Silveira.jpeg",
+        "alt": "Capa do livro lógica de programação",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "CSS Eficiente, Técnicas e Ferramentas para auxiliar o seu dia a dia",
+        "autor": "Tárcio Zemel",
+        "url": "./livros/CSS_Eficiente_Tecnicas.pdf",
+        "imagem": "./imagens/Tarcio_Zemel.jpg",
+        "alt": "Capa do livro CSS eficiente, Técnicas e ferramentas",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "Guia Front-End: O Caminho das pedras para se tornar um Dev front-End",
+        "autor": "Diego EIS",
+        "url": "./livros/Guia_Front-End.pdf",
+        "imagem": "./imagens/Guia_Front.webp",
+        "alt": "Capa do livro Guia Front_End Caminho das pedras",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "HTML a partir do zero",
+        "autor": "Alfredo Limongi",
+        "url": "./livros/HTML_a_partir_do_zero.pdf",
+        "imagem": "./imagens/Alfredo.jpg",
+        "alt": "Capa do livro HTML apartir do zero",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "O programador apaixonado: Construindo uma carreira notável no desenvolvimento de Software",
+        "autor": "Chad Fowler",
+        "url": "./livros/O_Programador_Apaixonado.pdf",
+        "imagem": "./imagens/apaixonado.jpg",
+        "alt": "Capa do livro o programador apaixonado",
+        "categoria": "Engenharia"
+    },
+    {
+        "titulo": "Lógica de programação e Estruturas de Dados com aplicações Java",
+        "autor": "Sandra Puga e Gerson Rissetti",
+        "url": "./livros/Logica_de_Programacao_e_Estrutura.pdf",
+        "imagem": "./imagens/ED.jpg",
+        "alt": "Capa do livro Lógica de programação e Estruturas de Dados",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Engenharia de Software",
+        "autor": "Kechi Hirama",
+        "url": "./livros/Engenharia_De_Softwaare.pdf",
+        "imagem": "./imagens/eng.jpg",
+        "alt": "Capa do livro Engenharia de Software",
+        "categoria": "Engenharia"
+    },
+    {
+        "titulo": "Guia de Markdown para o GitHub",
+        "autor": "Gustavo Guanabara",
+        "url": "./livros/guia-markdown.pdf",
+        "imagem": "./imagens/Guanabara.png",
+        "alt": "Capa do livro Guia do Markdown",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Desbravando Java : Orientação a Objetos",
+        "autor": "Rodrigo Turini",
+        "url": "./livros/Desbravando_java.pdf",
+        "imagem": "./imagens/Java.jpg",
+        "alt": "Capa do livro Desbravando o Java",
+        "categoria": "back-end"
+    }
+]
