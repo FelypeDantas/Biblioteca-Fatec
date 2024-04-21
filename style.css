@@ -37,10 +37,6 @@ body {
   height: 278px;
 }
 
-.cabecalho__pesquisar__item {
-  display: none;
-}
-
 .pesquisar__input {
   padding: .5rem;
   border: 2px solid var(--cinza-claro);
@@ -233,7 +229,7 @@ body {
     width: 0%;
   }
 
-  .cabecalho__pesquisar__item{
-    width: 50%;
+  .cabecalho__pesquisar__item {
+    display: none;
   }
 }
