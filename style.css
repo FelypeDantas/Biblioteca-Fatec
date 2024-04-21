@@ -207,10 +207,12 @@ body {
 
   .btn{
     display: grid;
+    margin-bottom: 5%;
   }
 
   .nav{
     display: grid;
+    margin-bottom: 5%;
   }
 
   .livros__disponiveis{
