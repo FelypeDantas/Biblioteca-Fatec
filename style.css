@@ -225,8 +225,7 @@ body {
     width: 0%;
   }
 
-  .form__pesquisa{
-    justify-content: left;
+  .cabecalho__pesquisar__item{
+    width: 0%;
   }
-
 }
