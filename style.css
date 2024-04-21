@@ -200,10 +200,6 @@ body {
 }
 
 @media screen and (max-width: 991px) {
-
-  body{
-    height: 100vh;
-  }
   
   .banner{
     background-image: none;
