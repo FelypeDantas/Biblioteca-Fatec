@@ -218,15 +218,15 @@ body {
   .livros{
     display: grid;
     margin-bottom: 10%;
-    margin-top: 30%;
+    margin-top: 80%;
   }
 
   .livros__disponiveis{
     width: 0%;
   }
 
-  .cabecalho__pesquisar__item{
-    width: 0%;
+  .form__pesquisa{
+    width: none;
   }
 
 }
