@@ -225,4 +225,8 @@ body {
     width: 0%;
   }
 
+  .form__pesquisa{
+    justify-content: right;
+  }
+
 }
