@@ -213,4 +213,8 @@ body {
     display: grid;
   }
 
+  .livros__disponiveis{
+    width: 0%;
+  }
+
 }
