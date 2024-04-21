@@ -40,8 +40,8 @@ body {
 .pesquisar__input {
   padding: 8px;
   border: 2px solid var(--cinza-claro);
-  border-radius: 32px 0px 0px 32px;
-  font-size: 16px;
+  border-radius: 2rem 0rem 0rem 2rem;
+  font-size: 1rem;
 }
 
 .pesquisar__input-teclado{
@@ -204,4 +204,9 @@ body {
   .banner{
     background-image: none;
   }
+
+  .btn{
+    display: grid;
+  }
+  
 }
