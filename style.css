@@ -226,7 +226,7 @@ body {
   }
 
   .form__pesquisa{
-    width: none;
+    position: right;
   }
 
 }
