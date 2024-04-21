@@ -226,7 +226,7 @@ body {
   }
 
   .form__pesquisa{
-    justify-content: right;
+    justify-content: left;
   }
 
 }
