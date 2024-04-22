@@ -131,7 +131,7 @@
         "titulo": "Java - Como Programar",
         "autor": "Deitel",
         "url": "./livros/Paul Deitel, Harvey Deitel - Java - Como Programar-Pearson (2016).pdf",
-        "imagem": "./imagens/Java.jpg",
+        "imagem": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.br%2FJAVA-C%25C3%2593MO-PROGRAMAR-10%25C2%25AA-ED%2Fdp%2F6073238029&psig=AOvVaw2Y1j_dixGa3Rje5UYA459g&ust=1713901022192000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLicw_vI1oUDFQAAAAAdAAAAABAf",
         "alt": "Capa do livro Java - Como Programar",
         "categoria": "back-end"
     }
