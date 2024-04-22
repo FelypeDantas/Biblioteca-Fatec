@@ -126,5 +126,13 @@
         "imagem": "./imagens/Java.jpg",
         "alt": "Capa do livro Desbravando o Java",
         "categoria": "back-end"
+    },
+    {
+        "titulo": "Java - Como Programar",
+        "autor": "Deitel",
+        "url": "./livros/",
+        "imagem": "./imagens/Java.jpg",
+        "alt": "Capa do livro Java - Como Programar",
+        "categoria": "back-end"
     }
 ]
