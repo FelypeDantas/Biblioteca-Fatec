@@ -1,6 +1,6 @@
+
 let livros = [];
 const endpointDaApi = './app/livros.json';
-const livrosDisponiveis = document.getElementById('valor_total_livros_disponiveis');
 
 getBuscarLivrosDaAPI();
 const inserirLivros = document.getElementById('livros');
@@ -28,7 +28,8 @@ function exibirOsLivrosNaTela(listaLivros){
         </div>
         </div>
         `
+
     });
 }
 
-//<a href="caminho/para/seu/arquivo.pdf" target="_blank">Link para o PDF</a>
+

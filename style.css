@@ -30,6 +30,14 @@ body {
   max-width: 15%;
 }
 
+.cabecalho__livros {
+  background-size: contain;
+  background-repeat: no-repeat;
+  align-self: end;
+  background-position: center;
+  padding: 15px;
+}
+
 .banner {
   background-image: url('./imagens/Banner-1.png');
   background-repeat: no-repeat;
