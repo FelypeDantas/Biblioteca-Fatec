@@ -38,6 +38,10 @@ body {
   padding: 15px;
 }
 
+.cabecalho__pesquisar__item{
+  display: flex;
+}
+
 .banner {
   background-image: url('./imagens/Banner-1.png');
   background-repeat: no-repeat;
