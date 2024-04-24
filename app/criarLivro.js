@@ -11,7 +11,7 @@ async function criaLivro(evento){
 
     await conectaAPI.criaLivro(imagem, url, titulo, autor, categoria);
 
-    window.location.href = "./envio-concluido.html";
+    window.location.href = "../pages/envio-concluido.html";
 
 }
 
