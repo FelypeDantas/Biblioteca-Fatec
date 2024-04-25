@@ -249,3 +249,39 @@ body {
     display: none;
   }
 }
+
+/* Adicionando media queries para dispositivos de tela pequena */
+
+/* Tablets e dispositivos com largura de tela de até 768px */
+@media screen and (max-width: 768px) {
+  .wrap {
+    width: 90%; /* Reduzindo a largura para ocupar 90% da largura da tela */
+  }
+
+  .header img {
+    max-width: 40%; /* Reduzindo o tamanho do logotipo no cabeçalho */
+  }
+
+  .banner {
+    height: 200px; /* Reduzindo a altura do banner */
+  }
+
+  .pesquisar__input, .pesquisar__input-teclado {
+    width: 70%; /* Ajustando a largura do campo de pesquisa */
+  }
+}
+
+/* Smartphones e dispositivos com largura de tela de até 480px */
+@media screen and (max-width: 480px) {
+  .wrap {
+    width: 100%; /* Utilizando toda a largura da tela */
+  }
+
+  .header img {
+    max-width: 60%; /* Reduzindo ainda mais o tamanho do logotipo no cabeçalho */
+  }
+
+  .pesquisar__input, .pesquisar__input-teclado {
+    width: 80%; /* Ajustando ainda mais a largura do campo de pesquisa */
+  }
+}
